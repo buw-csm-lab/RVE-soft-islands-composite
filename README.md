@@ -2,7 +2,7 @@
 This is the data repository of the article *Python code for modeling multi-layer structures with controlled cracking and delamination* submitted to Software Impacts.
 
 
-## Contents
+# Contents
 
 The Abaqus Python code `RVE_soft_islands.py`  generates representative volume elements of multi-layer composites structured with embedded islands and stable cracks. It provides the framework to study the composites's stretchability and deformation mechanisms using finite element modelling.
 
